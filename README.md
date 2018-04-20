@@ -13,3 +13,7 @@ source .env/bin/activate
 pip install -r requirements.txt
 bottery run
 ```
+
+## Contributions
+
+Pull requests are very much welcome!
