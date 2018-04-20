@@ -6,8 +6,9 @@ verify_ssl = true
 
 [packages]
 
-bottery = "*"
+bottery = "==0.0.1a16"
 gunicorn = "*"
+python-decouple = "*"
 
 [requires]
 
